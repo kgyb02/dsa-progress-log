@@ -11,4 +11,6 @@
 **Problem Solved:** 2089. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
 
 ## 21 October 2026
-**Problem Solved:** 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) 
+**Problem Solved:** 
+- 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) 
+- 3168. [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)
